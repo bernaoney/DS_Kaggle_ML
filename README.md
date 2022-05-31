@@ -9,8 +9,7 @@ In terms of accuracy metrics and roc curve performance, XGBoost gives the best p
 
 ## Model Evaluation Metrics
 
-![](plots\accuracy_metrics2.png)
-
+![](plots/accuracy_metric.png)
 
 ![](plots/roc_curve_comparison.png)
 
